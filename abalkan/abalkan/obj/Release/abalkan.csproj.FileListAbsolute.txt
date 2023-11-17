@@ -1,0 +1,14 @@
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\bin\Release\abalkan.exe.config
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\bin\Release\abalkan.exe
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\bin\Release\abalkan.pdb
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\bin\Release\Bunifu_UI_v1.52.dll
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.Form1.resources
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.Form2.resources
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.Form3.resources
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.Form4.resources
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.Properties.Resources.resources
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.csproj.GenerateResource.cache
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.csproj.CoreCompileInputs.cache
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.csproj.CopyComplete
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.exe
+C:\Users\korku\OneDrive\Masaüstü\Proje\abalkan\abalkan\obj\Release\abalkan.pdb
